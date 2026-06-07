@@ -27,26 +27,20 @@ In many libraries, students spend a significant amount of time searching for boo
 	Notify the supervisor when returning a borrowed book.
 
 ## Supervisor Module
-	Verify student borrowing requests.
-  Approve or reject borrowing requests.
-	View all borrowed books.
-	Monitor overdue books.
-	View details of students who fail to return books on time.
-
-## Technologies Used
+	Verify student borrowing requests.                                                                                                        Approve or reject borrowing requests.                                                                                                     View all borrowed books.                                                                                                                  Monitor overdue books.                                                                                                                   View details of students who fail to return books on time. 
+    
+ ## Technologies Used
 	HTML
 	CSS
 	JavaScript
 	PHP
-  MYSQL
-	XAMPP
-
+    MYSQL                                                                                                                                     XAMPP
+	
 ## Author
-Name: ANORDIUS KAIZA MICHAEL
-Registration Number: 14325035/T.24
-Programme: Bsc.EDU (MICT) II
-Lecturer
-@Kadefue
+Name: ANORDIUS KAIZA MICHAEL                                                                                                              
+Registration Number: 14325035/T.24                                                                                                       
+Programme: Bsc.EDU (MICT) II                                                                                                              
+Lecturer                                                                                                                                   @Kadefue
 
 ## Conclusion
 This system improves the efficiency of library operations by enabling students to search for books, request borrowing services, and access book location information digitally while assisting supervisors in managing library resources effectively.
