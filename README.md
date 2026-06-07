@@ -27,7 +27,7 @@ In many libraries, students spend a significant amount of time searching for boo
 	Notify the supervisor when returning a borrowed book.
 
 ## Supervisor Module
-	Verify student borrowing requests.                                                                                                        Approve or reject borrowing requests.                                                                                                     View all borrowed books.                                                                                                                  Monitor overdue books.                                                                                                                   View details of students who fail to return books on time. 
+	Verify student borrowing requests.                                                                                                        Approve or reject borrowing requests.                                                                                                     View all borrowed books.                                                                                                                  Monitor overdue books.                                                                                                                    View details of students who fail to return books on time. 
     
  ## Technologies Used
 	HTML
