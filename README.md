@@ -3,7 +3,8 @@
 # Library Management System
 
 ## Project Overview
-The Library Management System is a web-based application developed to improve the management of library resources and borrowing services. The system enables students to search for books, view detailed book information, and submit borrowing requests online. It also assists library supervisors in managing book requests and monitoring overdue books.
+The Library Management System is a web-based application developed to improve the management of library resources and borrowing services. The system enables students to search for books, view detailed book information, and submit borrowing requests online. It also assists
+library supervisors in managing book requests and monitoring overdue books.
 
 ## Problem Statement
 In many libraries, students spend a significant amount of time searching for books and requesting borrowing services manually. This process can be inefficient and may lead to delays in accessing learning materials. The proposed system provides a digital solution that simplifies book searching, borrowing, and monitoring activities.
@@ -27,7 +28,11 @@ In many libraries, students spend a significant amount of time searching for boo
 	Notify the supervisor when returning a borrowed book.
 
 ## Supervisor Module
-	Verify student borrowing requests.                                                                                                        Approve or reject borrowing requests.                                                                                                     View all borrowed books.                                                                                                                  Monitor overdue books.                                                                                                                    View details of students who fail to return books on time. 
+	Verify student borrowing requests.
+    Approve or reject borrowing requests. 
+	View all borrowed books. 
+	Monitor overdue books.   
+	View details of students who fail to return books on time. 
     
  ## Technologies Used
 	HTML
