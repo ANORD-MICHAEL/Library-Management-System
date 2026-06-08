@@ -1,0 +1,125 @@
+
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+}
+
+/* HEADER */
+
+header{
+    background:#2c3e50;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+header h1{
+    margin-bottom:10px;
+}
+
+/* LOGIN SECTION */
+
+.login-container{
+    width:350px;
+    background:white;
+    margin:40px auto;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.login-container h2{
+    text-align:center;
+    margin-bottom:20px;
+    color:#2c3e50;
+}
+
+.input-group{
+    margin-bottom:15px;
+}
+
+.input-group label{
+    display:block;
+    margin-bottom:5px;
+}
+
+.input-group input{
+    width:100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+.btn{
+    width:100%;
+    padding:10px;
+    border:none;
+    background:#3498db;
+    color:white;
+    font-size:16px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.btn:hover{
+    background:#2980b9;
+}
+
+/* DASHBOARD */
+
+.dashboard{
+    width:90%;
+    margin:30px auto;
+}
+
+.books-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+}
+
+.book-card{
+    background:white;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 8px rgba(0,0,0,0.1);
+}
+
+.book-card h3{
+    margin-bottom:10px;
+    color:#2c3e50;
+}
+
+.book-card p{
+    margin:8px 0;
+}
+
+.borrow-btn{
+    margin-top:10px;
+    padding:10px;
+    width:100%;
+    border:none;
+    background:#27ae60;
+    color:white;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+.borrow-btn:hover{
+    background:#1e8449;
+}
+
+.logout{
+    background:red;
+    color:white;
+    padding:10px 15px;
+    text-decoration:none;
+    border-radius:5px;
+}
+
